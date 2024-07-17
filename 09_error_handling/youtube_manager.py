@@ -54,7 +54,7 @@ def main():
     videos = load_data()
     while True:
         print("\n")
-        print("Youtube Manager App | Choose an option from below")
+        print("Youtube Manager App | Normal Version")
         print("\n")
         print("1. List all youtube videos")
         print("2. Add a youtube video")
